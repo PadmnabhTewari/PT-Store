@@ -11,7 +11,7 @@ Hi, I'm Padmnabh Tewari, and this is my project! I built this application to sho
 - [Future Enhancements](#future-enhancements)
 
 ## Overview
-This project is a full-stack web application that includes a backend API and a frontend built with modern web technologies. It is designed to provide a seamless user experience while maintaining a scalable and maintainable codebase.
+This project is a full-stack web application that includes a backend API and a frontend built with modern web technologies. It is designed to provide a seamless user experience while maintaining a scalable and maintainable  codebase.
 
 ## Features
 - **Dynamic Product Listings**: Browse through a variety of products with detailed descriptions and images.
