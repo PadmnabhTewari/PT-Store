@@ -1,6 +1,6 @@
 # My Project
 
-Hi, I'm Padmnabh Tewari, and this is my project! I built this application to showcase my skills in full-stack development, combining a robust backend with a dynamic frontend. Here's everything you need to know about it:
+Hi,I'm Padmnabh Tewari, and this is my project! I built this application to showcase my skills in full-stack development, combining a robust backend with a dynamic frontend. Here's everything you need to know about it:
 
 ## Table of Contents
 - [Overview](#overview)
